@@ -35,6 +35,7 @@
     "start": "next start",
     "lint": "next lint",
     "type-check": "tsc --noEmit",
+    "test": "echo \"No tests yet\" && exit 0",
     "demo": "open demo.html",
     "setup": "./scripts/setup.sh"
   },
